@@ -73,3 +73,5 @@ void q_short(int low, int high) {
         q_short(j + 1, high); // Step 13
     }
 }
+
+void display() {
