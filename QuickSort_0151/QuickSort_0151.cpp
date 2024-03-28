@@ -1,7 +1,5 @@
 #include <iostream>
 using namespace std;
 
-int main()
-{
-    std::cout << "Hello World!\n";
-}
+// array of integers to hold values
+int arr[20];
